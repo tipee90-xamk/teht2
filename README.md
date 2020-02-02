@@ -1,2 +1,2 @@
-# teht2
-Second Angular project
+# teht1
+My first Angular project
